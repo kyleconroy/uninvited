@@ -2,7 +2,7 @@ import json
 
 
 def by_domain(rule):
-    return rule['trigger']['if-domain'][0]
+    return rule['trigger']['url-filter']
 
 
 def convert():
@@ -18,8 +18,7 @@ def convert():
 
             rules.append({
                 "trigger": {
-                    "url-filter": ".*",
-                    "if-domain": [parts[1]],
+                    "url-filter": parts[1],
                 },
                 "action": {
                     "type": "block",

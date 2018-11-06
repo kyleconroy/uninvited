@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 09 Oct 2018 at 07:48:02 GMT
+# Last updated: Mon, 05 Nov 2018 at 05:53:12 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2261,6 +2261,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 dbios.org
 127.0.0.1 dcproxy1.thrunet.com
 127.0.0.1 definitial.info
+127.0.0.1 deloitteca.com
 127.0.0.1 dhauzja511.co.cc
 127.0.0.1 dietpharmacyrx.net
 127.0.0.1 dkspqpprnsmmte.com
@@ -2369,6 +2370,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 ircleaner.com
 127.0.0.1 istartsurf.com
 127.0.0.1 iswwwup.com
+127.0.0.1 it.globalsweeps.info
 127.0.0.1 itwititer.com
 127.0.0.1 ity.elusmedic.ru
 127.0.0.1 iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
@@ -2419,6 +2421,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 loseweight.asdjiiw.com
 127.0.0.1 lp7.mobilescaner.today
 127.0.0.1 lp.cleanmymac.online
+127.0.0.1 lp.maccleanuptools.com
 127.0.0.1 lrt7a.coldcertainchannel.com
 127.0.0.1 lucibad.home.ro
 127.0.0.1 lucklayed.info
@@ -2476,6 +2479,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 megasurfin.com
 127.0.0.1 meta.osqa.net
 127.0.0.1 metcoc5cm.clarent.com
+127.0.0.1 microsoft.com-it2-dye1.premi-fedelta-degli-utenti.us
 127.0.0.1 microsoft.com-msoft52.info
 127.0.0.1 microsoftsupport.com-support0206.info
 127.0.0.1 miercuri.gq
@@ -2797,6 +2801,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 trialreg.com
 127.0.0.1 trovi.com
 127.0.0.1 trustedmaccleaner.com
+127.0.0.1 tuniaf.com
 127.0.0.1 tvshowslist.com
 127.0.0.1 twitter.login.kevanshome.org
 127.0.0.1 twitter.secure.bzpharma.net
@@ -2851,6 +2856,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 whenvideoup.thebigandfreesystemupdating.date
 127.0.0.1 wikidevs.com
 127.0.0.1 willysy.com
+127.0.0.1 winsupportit.club
 127.0.0.1 wm.maxysearch.info
 127.0.0.1 w.oix.net
 127.0.0.1 womo.corrmedic.ru
@@ -2877,7 +2883,15 @@ ff02::3		ip6-allhosts
 127.0.0.1 www2.anybestconcreteflash.icu
 127.0.0.1 www2.fasterupconcreteflash.icu
 127.0.0.1 www2.gettypegoldflash.club
+127.0.0.1 www2.savedealoriginalaflash.icu
+127.0.0.1 www2.setdealoriginalaflash.icu
+127.0.0.1 www2.setoriginalgreataflash.icu
+127.0.0.1 www2.settypesoftaflash.icu
+127.0.0.1 www2.smallconcretetypeflash.world
+127.0.0.1 www2.smalltypeconcreteflash.rocks
+127.0.0.1 www2.topgoldhowflash.icu
 127.0.0.1 www2.upgradebestonlineflash.icu
+127.0.0.1 www2.yoursseparatebestaflash.icu
 127.0.0.1 www.3tsdaq8viz.us
 127.0.0.1 www4.gy7k.net
 127.0.0.1 www.a2uu36g43l.download
@@ -2891,6 +2905,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.allhqpics.com			# Facebook trojan
 127.0.0.1 www.alrpost69.com
 127.0.0.1 www.anatol.com
+127.0.0.1 www.apple.com-speed-macbook.live
 127.0.0.1 www.articlefuns.cn
 127.0.0.1 www.articleidea.cn
 127.0.0.1 www.asianread.com
@@ -2914,6 +2929,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.didata.bw
 127.0.0.1 www.dietsecret.ru
 127.0.0.1 www.displaybrowser.com
+127.0.0.1 www.elemntindexer.com
 127.0.0.1 www.eroyear.ru
 127.0.0.1 www.exbays.com
 127.0.0.1 www.faggotry.com
@@ -2973,6 +2989,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.onlyfreeoffersonline.com
 127.0.0.1 www.openinternetexchange.com
 127.0.0.1 www.oreidofitilho.com.br
+127.0.0.1 www.originscheduler.com
 127.0.0.1 www.otsserver.com
 127.0.0.1 www.pay-pal.com-cgibin-canada.4mcmeta4v.cn
 127.0.0.1 www.phormlabs.com
@@ -2980,6 +2997,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.portaldimensional.com
 127.0.0.1 www.poxudeli.ru
 127.0.0.1 www.ppoi.org
+127.0.0.1 www.presidency.site
 127.0.0.1 www.proflashdata.com			# Facebook trojan
 127.0.0.1 www.puush.in
 127.0.0.1 www.randki-sex.com
@@ -3033,6 +3051,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.zoominnovate.online
 127.0.0.1 xbasfbno.info
 127.0.0.1 xfotosx01.fromru.su
+127.0.0.1 xn--oogle-wmc.com
 127.0.0.1 xponlinescanner.com
 127.0.0.1 xvrxyzba253.hotmail.ru
 127.0.0.1 xxyyzz.youcanoptout.com
@@ -6596,7 +6615,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 adzone.ro
 127.0.0.1 adzone.stltoday.com
 127.0.0.1 adzservice.theday.com
-127.0.0.1 ae01.alicdn.com
 127.0.0.1 ae-gb.mgid.com
 127.0.0.1 ae.goodsblock.marketgid.com
 127.0.0.1 afdyfxfrwbfy.com
@@ -6723,6 +6741,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 api-public.addthis.com
 127.0.0.1 api.sagent.io
 127.0.0.1 api.shoppingminds.net
+127.0.0.1 api.taboola.com
 127.0.0.1 api.viglink.com
 127.0.0.1 ap.lijit.com
 127.0.0.1 apopt.hbmediapro.com
@@ -6826,6 +6845,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 asg11.casalemedia.com
 127.0.0.1 asg12.casalemedia.com
 127.0.0.1 asg13.casalemedia.com
+127.0.0.1 ash.creativecdn.com
 127.0.0.1 ashow.pcpop.com
 127.0.0.1 ask-gps.ru
 127.0.0.1 asklots.com
@@ -6927,6 +6947,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 banner.affactive.com
 127.0.0.1 banner.betroyalaffiliates.com
 127.0.0.1 banner.betwwts.com
+127.0.0.1 banner.boostbox.com.br
 127.0.0.1 banner.cdpoker.com
 127.0.0.1 banner.clubdicecasino.com
 127.0.0.1 bannerconnect.net
@@ -7138,6 +7159,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 BRApolice.com
 127.0.0.1 bravo.israelinfo.ru
 127.0.0.1 bravospots.com		
+127.0.0.1 breakthroughtrend.com
 127.0.0.1 b.recwwcc5.info
 127.0.0.1 brittlefilet.com
 127.0.0.1 br.naked.com
@@ -7772,6 +7794,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 de.ads.justpremium.com
 127.0.0.1 dealitright.click
 127.0.0.1 dearerfonder.info
+127.0.0.1 decide.mixpanel.com
 127.0.0.1 decouvre.la
 127.0.0.1 defpush.com
 127.0.0.1 del1.phillyburbs.com
@@ -8356,6 +8379,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 gug.ku6cdn.com
 127.0.0.1 guiaconsumidor.com
 127.0.0.1 guide2poker.com
+127.0.0.1 guildofangels.net
 127.0.0.1 GUMpolice.com
 127.0.0.1 guptamedianetwork.com
 127.0.0.1 guru.sitescout.netdna-cdn.com
@@ -8859,6 +8883,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 ligtv.kokteyl.com
 127.0.0.1 link2me.ru
 127.0.0.1 link4ads.com
+127.0.0.1 link4win.net
 127.0.0.1 linknotification.com
 127.0.0.1 linktracker.angelfire.com
 127.0.0.1 linuxpark.adtech.de
@@ -8877,6 +8902,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 loading321.com
 127.0.0.1 loadm.exelator.com
 127.0.0.1 load.sumome.com
+127.0.0.1 loboclick.com
 127.0.0.1 local.promoisland.net
 127.0.0.1 logc252.xiti.com
 127.0.0.1 log.feedjit.com
@@ -9169,6 +9195,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 m.pl.pornzone.tv
 127.0.0.1 mp.tscapeplay.com
 127.0.0.1 mpv.sandai.net
+127.0.0.1 m.quantcount.com
 127.0.0.1 mr4evmd0r1.s.ad6media.fr
 127.0.0.1 msn.allyes.com
 127.0.0.1 msnbe-hp.metriweb.be
@@ -10312,8 +10339,10 @@ ff02::3		ip6-allhosts
 127.0.0.1 simpli.fi
 127.0.0.1 s.innovid.com
 127.0.0.1 site.adform.com
+127.0.0.1 siteadvisor.com-br.site
 127.0.0.1 siteimproveanalytics.com
 127.0.0.1 siteonline.stream
+127.0.0.1 sitionne.pro
 127.0.0.1 sixapart.adbureau.net
 127.0.0.1 sizzle-savings.com
 127.0.0.1 skgde.adocean.pl
@@ -10329,6 +10358,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 smartclip.net
 127.0.0.1 smartcontext.pl
 127.0.0.1 smartinit.webads.nl
+127.0.0.1 smartlifeguides.com
 127.0.0.1 smart-scripts.com
 127.0.0.1 smartshare.lgtvsdp.com
 127.0.0.1 s.media-imdb.com
@@ -11340,6 +11370,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.adjug.com
 127.0.0.1 www.adloader.com
 127.0.0.1 www.adlogix.com
+127.0.0.1 www.adlzyei.com
 127.0.0.1 www.admex.com
 127.0.0.1 www.adnet.biz
 127.0.0.1 www.adnet.com
@@ -11603,6 +11634,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.datingadvertising.com
 127.0.0.1 www.dctracking.com
 127.0.0.1 www.defaultinternet.com
+127.0.0.1 www.delton.com
 127.0.0.1 www.depravedwhores.com
 127.0.0.1 www.designbloxlive.com
 127.0.0.1 www.destinationurl.com
@@ -11617,6 +11649,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.djugoogs.com
 127.0.0.1 www.dllfilestab.com
 127.0.0.1 www.dl-plugin.com
+127.0.0.1 www.dragonawaken.com
 127.0.0.1 www.drowle.com
 127.0.0.1 www.dt1blog.com
 127.0.0.1 www.dutchsales.org
@@ -11870,6 +11903,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.linkwithin.com
 127.0.0.1 www.liveadexchanger.com
 127.0.0.1 www.lldiettracker.com
+127.0.0.1 www.loboclick.com
 127.0.0.1 www.lottoforever.com
 127.0.0.1 www.lpcloudsvr302.com
 127.0.0.1 www.lpmxp2014.com
